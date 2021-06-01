@@ -1,0 +1,17 @@
+test_add_params:
+- - xuehao: '210401'
+    name: 'aa'
+    age: '12'
+    score: '90'
+  - True
+
+- - xuehao: '210402'
+    name: 'bb'
+    age: ''
+    score: ''
+  - True
+
+test_other_1:
+- [测试数据1, 期望结果1]
+- [测试数据2, 期望结果2]
+- [测试数据3, 期望结果3]

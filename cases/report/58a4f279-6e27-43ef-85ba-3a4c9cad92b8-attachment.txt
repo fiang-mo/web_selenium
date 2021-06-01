@@ -1,0 +1,10 @@
+正在定位元素信息：定位方式->xpath,value值->//a[@href="/xadmin/fiang/student/"]
+正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[1]/div[2]/div/a
+正在定位元素信息：定位方式->name,value值->student_id
+正在定位元素信息：定位方式->name,value值->name
+正在定位元素信息：定位方式->name,value值->age
+正在定位元素信息：定位方式->name,value值->score
+正在定位元素信息：定位方式->xpath,value值->//*[@id="student_form"]/div[2]/button
+正在定位元素信息：定位方式->xpath,value值->//*[@id="content-block"]/div[2]
+保存成功后，获取到页面的信息：×
+student "210402" 添加成功。
